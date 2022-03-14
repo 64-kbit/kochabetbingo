@@ -1,0 +1,2 @@
+# kochabetbingo
+Kochabet Bingo app
